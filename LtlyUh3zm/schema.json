@@ -1,0 +1,29 @@
+{
+  "defaultLocale": "en-us",
+  "locales": [
+    "en-us"
+  ],
+  "queries": {},
+  "mutations": {},
+  "shapes": {},
+  "workflows": {},
+  "forms": {},
+  "projectId": "8bf63c86-c0bb-4522-9fa4-9b194c34fe38",
+  "schemaVersion": "3.25.0",
+  "apiVersion": "2",
+  "services": {
+    "shopify": {
+      "id": "shopify",
+      "provider": "shopify",
+      "title": "Shopify",
+      "namespace": "Shopify",
+      "serviceType": "graphql",
+      "authenticationType": "custom",
+      "authentication": "bkV2BhlsIi4hMyxMX75ym/k3mwqIjFuBBqz8uTlRfTiG0bhJAfWWiYfdK6Ig7MLJ2JlDBuF99Ih1qifJ6MgDrqYkOyHkuoCbH+Wh2RyFtWMPYTB8qiWqL8xca5Ah6+e5p/e8QQvadYcxrboxBAV0k2uhgM76WtvDB5jXX3mzVajBkfypV/1jqf7AsYfOiEVKrD8=",
+      "options": {
+        "shop": "deluxe-sample-project",
+        "endpoint": "https://deluxe-sample-project.myshopify.com/admin/api/2022-07/graphql.json"
+      }
+    }
+  }
+}
